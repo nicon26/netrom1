@@ -1,4 +1,4 @@
-# netrom1
+# netrom ship problem
 
 A software application keeps the track of people on board of a ship.
 The people that are on board are either crew members or passengers.
